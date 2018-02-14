@@ -1,0 +1,8 @@
+D:\game\Game\Game\bin\Debug\Game.exe.config
+D:\game\Game\Game\obj\Debug\Game.Properties.Resources.resources
+D:\game\Game\Game\obj\Debug\Game.csproj.GenerateResource.Cache
+D:\game\Game\Game\bin\Debug\Game.exe
+D:\game\Game\Game\bin\Debug\Game.pdb
+D:\game\Game\Game\obj\Debug\Game.exe
+D:\game\Game\Game\obj\Debug\Game.pdb
+D:\game\Game\Game\obj\Debug\Game.GameScreen.resources
